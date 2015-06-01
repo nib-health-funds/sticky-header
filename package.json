@@ -1,0 +1,17 @@
+{
+  "name": "@nib/sticky-header",
+  "version": "1.0.0",
+  "main": "index.js",
+  "main.css": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-health-funds/sticky-header.git"
+  },
+  "dependencies": {
+    "document-offset": "1.0.2",
+    "debounce": "1.0.0"
+  },
+  "browser": {
+    "offset": "document-offset"
+  }
+}
